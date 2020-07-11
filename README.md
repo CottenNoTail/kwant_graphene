@@ -6,7 +6,7 @@ This program is intended for quantum simulation in grapehne system, base on Kwan
 https://kwant-project.org/
 
 ## Typical workflow for kwant
-![](kwant_images/kwantflow.png)
+![picture](./kwantflow.png)
 
 
 ## Program structure
